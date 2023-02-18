@@ -1,5 +1,5 @@
-[list](https://ibb.co/h76G7gJ)
-[get](https://ibb.co/VMjQnPx)
-[add](https://ibb.co/DG7kBzY)
-[edit](https://ibb.co/tBzRKvd)
-[remove](https://ibb.co/FH18xLR)
+- [list](https://ibb.co/h76G7gJ) - Отримуємо і виводимо весь список контактів у вигляді таблиці
+- [get](https://ibb.co/VMjQnPx) - Отримуємо контакт по id
+- [add](https://ibb.co/DG7kBzY) - Додаємо контакт
+- [edit](https://ibb.co/tBzRKvd) - Редагуємо контакт
+- [remove](https://ibb.co/FH18xLR) - Видаляємо контакт
